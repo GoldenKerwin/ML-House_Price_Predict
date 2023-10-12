@@ -7,6 +7,6 @@ The case notes r written in both Chinese and English.
 
 If it can help u learn about Machine Learning or it can help u for convenience, please give it a star!
 
-Welcome to communicate with me if u find error or have any question in the example.   kekerwin555@g.mail.com
+Welcome to communicate with me if u find error or have any question in the example.   kekerwin555@gmail.com
 
 Learning content and tutorials will continue to be updated as the author progresses.
